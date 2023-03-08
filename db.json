@@ -1,0 +1,48 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "resources": [
+    {
+      "resclas": "$BOOL",
+      "owner": "AUTO",
+      "date": "2022-11-09T05:00:00.000Z",
+      "active": "Y",
+      "environment": "TS",
+      "updated": "Ethan",
+      "id": 1
+    },
+    {
+      "resclas": "wde",
+      "owner": "deede",
+      "date": "2023-03-02T05:00:00.000Z",
+      "active": "Y",
+      "environment": "TS",
+      "updated": "dedee",
+      "id": 2
+    },
+    {
+      "resclas": "csdcd",
+      "owner": "cddcdf",
+      "date": "2023-03-02T05:00:00.000Z",
+      "active": "Y",
+      "environment": "BU",
+      "updated": "66",
+      "id": 3
+    }
+  ]
+}
